@@ -35,3 +35,5 @@ function lookUpProfile(name, prop){
 
 // Change these values to test your function
 lookUpProfile("Akira", "likes");
+
+//something
