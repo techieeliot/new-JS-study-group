@@ -1,9 +1,7 @@
-# new-JS-study-group
-
 # w3Develops JavaScript Study Group
 The following page is my daily progress during our study group. The site is mostly for inspecting the console with updates to the script source daily. Includes a vanilla javascript from freeCodeCamp's challenges.
 
-[Live link](#)
+[Live link](https://techieeliot.github.io/new-JS-study-group/)
 
 See our progress via a daily YouTube video recording.
 
