@@ -3,4 +3,4 @@ const lastName = "Sanford";
 
 let fullName = ${`firstName` `lastName`};
 console.log(fullName);
-document.getElementById
+document.getElementById('insert-here').innerText = fullName;
