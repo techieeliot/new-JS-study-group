@@ -7,5 +7,5 @@ let countChar = str => {
 }  
 console.log(countChar("Hello woooorld!"));
 
-
+//comment
 
