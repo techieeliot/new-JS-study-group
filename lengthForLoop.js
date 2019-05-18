@@ -5,7 +5,7 @@ let countChar = str => {
     }
     return count;
 }  
-console.log(countChar("Hello woooorld!"));
+console.log(countChar("Hello woooooorld!"));
 
 //comment
 
